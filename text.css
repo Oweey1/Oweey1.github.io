@@ -1,0 +1,53 @@
+.ab1
+{
+    background-color:white;
+    font-family:matura mt script capitals;
+    font-style:oblique;
+    font-size:40px;
+    color:red;
+    height:200px;
+    text-align:left;
+    padding-right:100px;
+    padding-top:100px;
+}
+
+.ab2
+{
+    background-color:black;
+    font-family:brush script mt;
+    font-style:normal;
+    font-size:50px;
+    color:white;
+    height:200px;
+    text-align:center;
+    padding-left:100px;
+    padding-top:50px;
+}
+.ab3 
+{
+    background-color:red;
+    font-family:serif;
+    font-style:italic;
+    font-size:60px;
+    color:black;
+    height:200px;
+    text-align:right;
+    padding-left:100px;
+    padding-top:50px;
+}
+.ab1:hover
+{
+    color:white;
+    background-color:black;
+       
+}
+.ab2:hover
+{
+    color:black;
+    background-color:red;
+}
+.ab3:hover
+{
+    color:red;
+    background-color:white;
+}
